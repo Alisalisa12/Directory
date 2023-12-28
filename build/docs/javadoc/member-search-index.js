@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.ac.uniyar.testingcourse","c":"Counter","l":"Counter()","u":"%3Cinit%3E()"},{"p":"ru.ac.uniyar.testingcourse","c":"Counter","l":"getValue()"},{"p":"ru.ac.uniyar.testingcourse","c":"Counter","l":"increase()"},{"p":"ru.ac.uniyar.testingcourse","c":"Counter","l":"reset()"}];updateSearchResults();
